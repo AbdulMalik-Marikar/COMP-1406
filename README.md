@@ -1,3 +1,3 @@
-# COMP-1406
-Prof Mark Lanthier
-Winter 2017
+# COMP-1406 Winter 2017
+- Prof: Mark Lanthier
+
